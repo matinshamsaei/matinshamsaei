@@ -12,7 +12,7 @@ I'm a Senior Software Engineer with 6+ years of experience designing and scaling
   </a>
   .
   <a href="https://www.linkedin.com/in/matinshamsaei/" target="_blank" rel="noreferrer" title="https://www.linkedin.com/in/matinshamsaei/">
-  Linkedin
+  LinkedIn
   </a>
   .
   <a href="mailto:matinshamsaei.gh@gmail.com" target="_blank" rel="noreferrer" title="matinshamsaei.gh@gmail.com">
