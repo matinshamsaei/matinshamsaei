@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Senior Software Engineer with 6+ years of experience designing and scaling full-stack applications using React, Next.js, TypeScript, and Node.js. Proven track record leading engineering teams, owning architecture decisions, building reusable platforms and design systems, and delivering high-performance products used by thousands of users. Experienced in micro-frontends, SDK development, CI/CD automation, and mentoring engineers in fast-growing product organizations.
+I'm a Senior Software Engineer with 7+ years of experience designing and scaling full-stack applications using React, Next.js, TypeScript, and Node.js. Proven track record leading engineering teams, owning architecture decisions, building reusable platforms and design systems, and delivering high-performance products used by thousands of users. Experienced in micro-frontends, SDK development, CI/CD automation, and mentoring engineers in fast-growing product organizations.
 
 - 🔭 I’m currently working on advertisement, User tracking, and Analysis Web SDKs
 - 🌱 I’m improving my AI, Native app development, and Back-End skills
