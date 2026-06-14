@@ -8,7 +8,7 @@ I'm a Senior Software Engineer with 6+ years of experience designing and scaling
 - 🏕️ I’m interested in nature, hiking, and video games
 - 📫 How to reach me:
   <a href="https://www.matinshamsaei.com" target="_blank" rel="noreferrer" title="https://www.matinshamsaei.com">
-  My Website
+  My Portfolio
   </a>
   .
   <a href="https://www.linkedin.com/in/matinshamsaei/" target="_blank" rel="noreferrer" title="https://www.linkedin.com/in/matinshamsaei/">
