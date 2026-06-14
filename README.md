@@ -1,11 +1,11 @@
 # Hi there 👋
 
-I'm a passionate self-educated developer who loves building projects including JavaScript, TypeScript, React.js and Vue.js. I'm always ready for new challenges and opportunities to learn and grow as a developer.
+I'm a Senior Software Engineer with 6+ years of experience designing and scaling full-stack applications using React, Next.js, TypeScript, and Node.js. Proven track record leading engineering teams, owning architecture decisions, building reusable platforms and design systems, and delivering high-performance products used by thousands of users. Experienced in micro-frontends, SDK development, CI/CD automation, and mentoring engineers in fast-growing product organizations.
 
-- 🔭 I’m currently working on Advertisements, User tracking and Analysis Web SDKs
-- 🌱 I’m currently improving my AI, Native app development and Back-End skills
+- 🔭 I’m currently working on advertisement, User tracking, and Analysis Web SDKs
+- 🌱 I’m improving my AI, Native app development, and Back-End skills
 - 🫱🏼‍🫲🏼 I’m looking to collaborate on challenging projects
-- 🏕️ I’m interested in nature, hiking and video games
+- 🏕️ I’m interested in nature, hiking, and video games
 - 📫 How to reach me:
   <a href="https://www.matinshamsaei.com" target="_blank" rel="noreferrer" title="https://www.matinshamsaei.com">
   My Website
